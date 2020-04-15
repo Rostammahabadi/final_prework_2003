@@ -4,8 +4,8 @@
 * Create a _local_ project directory
   * Don't fork this repo, start a repo from scratch; setting it up might look like this:
     ```
-    $ mkdir mid_mod
-    $ cd mid_mod
+    $ mkdir final
+    $ cd final
     $ mkdir lib test
     ```
 * Complete the iterations below **before** your scheduled mid-mod time!
