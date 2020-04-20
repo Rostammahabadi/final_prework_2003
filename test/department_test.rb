@@ -12,6 +12,7 @@ class DepartmentTest < MiniTest::Test
   end
 
   def test_it_has_attributes
+    customer_service = Department.new("Customer Service")
     assert_equal "Customer Service", customer_service.name
     assert_equal [], customer_service.employees
   end
